@@ -14,7 +14,7 @@ Thumbs.db
 .idea/
 # Downloaded raw data; provenance belongs in data/README.md
 /data/*
-!/data/README.md
+!/data/.gitkeep
 # Generated experiment outputs; retain folder documentation
 /results/figures/*
 !/results/figures/.gitkeep
